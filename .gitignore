@@ -22,3 +22,9 @@ node_modules/
 # OS files
 .DS_Store
 Thumbs.db
+
+staticfiles/
+media/
+__pycache__/
+*.pyc
+.env
